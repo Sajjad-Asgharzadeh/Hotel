@@ -53,3 +53,16 @@ padding: 20px 20px; line-height: 30px;
 color: white;  font-size: 15px; padding: 20px 20px;
 }
 .clr{ clear: both;}
+@media( max-height: 812px ) { 
+    .enjoy  { padding: 10px 10px; }
+ }
+ @media( max-height: 812px ) { 
+    .text2  { margin: 10px;; }
+    .ab{ margin: 5px;  }
+    .abc{ font-size: 12px; }
+    .read{ font-size: 16px; margin: 5px; }
+     .box{ float: none;  width: 100%;}
+ }
+ @media( max-height: 812px ) { 
+    .dec  { margin: none; }
+ }
